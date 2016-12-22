@@ -1,3 +1,5 @@
 # hello-world
 my 1st github trial
-I like eating)))
+
+I'm from Koktebel. We are the best! I like teaching these guys.
+
